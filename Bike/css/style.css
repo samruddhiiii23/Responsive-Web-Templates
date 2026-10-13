@@ -27,12 +27,15 @@
     font-weight: bolder;
 }
 .hero-sec,.features,.color,.environment,.contact{
-    background-image: url(https://wheels.stylox.design/images/hero-bg.jpg);
+    background-image: url(https://wheels.styloxdesign.com/images/hero-bg.jpg);
     position: relative;
     background-repeat: no-repeat;
     background-position: right;
     background-size: cover;
-    min-height: auto;
+    min-height: 90vh;
+}
+.padding{
+    padding-top: 110px;
 }
 .small-head{
     font-weight: 500;
@@ -124,16 +127,13 @@
     font-weight: 400;
     font-family: var(--ff2);
 }
-.features{
-    background-image: url(https://wheels.stylox.design/images/feature-section.png);
-    min-height: auto;
-}
+
 .title{
     padding-top: 80px;
     color: var(--c1);
 }
 .color{
-    background-image: url(https://wheels.stylox.design/images/color-background1.png);
+    background-image: url(https://wheels.styloxdesign.com/images/color-background1.png);
     min-height: auto;
 }
 .large-heading span{
@@ -143,7 +143,7 @@
     top: 210px;
 }
 .environment{
-    background-image: url(https://wheels.stylox.design/images/env1.jpg);
+    background-image: url(https://wheels.styloxdesign.com/images/env1.jpg);
     min-height: auto;
 }
 .para1{
@@ -194,7 +194,7 @@
     gap: 10px;
 }
 .contact{
-    background-image: url(https://wheels.stylox.design/images/form%20background-red.webp);
+    background-image: url(https://wheels.styloxdesign.com/images/form%20background-red.webp);
     min-height: auto;
 }
 .contact-head h2{
