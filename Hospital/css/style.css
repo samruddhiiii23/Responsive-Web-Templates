@@ -83,7 +83,7 @@
     letter-spacing: 0.5px;   
 }
 .text{
-    background-image: url(https://preview.colorlib.com/theme/docmed/img/banner/banner2.png);
+    background-image: url(https://preview.colorlib.com/theme/docmed/img/banner/banner2.avif);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -339,7 +339,7 @@
     color: var(--c6);
 }
 .board{
-    background-image: url(https://preview.colorlib.com/theme/docmed/img/testmonial/1.png);
+    background-image: url(https://preview.colorlib.com/theme/docmed/img/testmonial/1.avif);
     height: 760px;
     width: 100%;
     background-size: cover;
@@ -480,7 +480,7 @@
     margin-top: 80px;
 }
 .emergency1,.emergency2{
-    background-image:url(https://preview.colorlib.com/theme/docmed/img/banner/emergency-1.png);
+    background-image:url(https://preview.colorlib.com/theme/docmed/img/banner/emergency-1.avif);
     height: 250px;
     width: 100%;
     background-size: cover;
@@ -493,7 +493,7 @@
     padding-right: 30px;
 }
 .emergency2{
-    background-image: url(https://preview.colorlib.com/theme/docmed/img/banner/emergency-2.png);
+    background-image: url(https://preview.colorlib.com/theme/docmed/img/banner/emergency-2.avif);
 }
 .emergency1 h3,.emergency2 h3{
     font-size: 26px;
